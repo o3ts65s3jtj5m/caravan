@@ -35,7 +35,7 @@
   background-color: gold; /* 背景色gold */
 }
 
-  .main {
+.main {
   width: 840px; /* 横幅840px */
   /* background-color, heightの指定を解除 */  display: flex; /* Flexboxの利用 */
   justify-content: center; /* 子要素の横並び・中央寄せ */
