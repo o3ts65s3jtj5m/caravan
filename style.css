@@ -23,6 +23,22 @@ header {
   display: inline-block;
   margin: 0 20px;
 }
+.webcamp {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.webcamp pro {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.webcamp woman {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.webcamp career {
+  margin-left: 20px;
+  margin-right: 20px;
+}
 
 .main {
   width: 800px;
